@@ -12,4 +12,12 @@ insert by master^^^^^^^^
 
 modify by hot-fix~~~~~~~~~~~~
 
+<<<<<<< HEAD
 modify local
+_______________________________
+modify by githubBranch in brower
+>>>>>>> 864a83f2f82df43ff549de1b72b772e666ffb778
+
+
+this in demo1Branch this my space hello everybody
+
