@@ -41,3 +41,6 @@ your leader invit me to help you;
 -------------------
 这是在IDEA从gitHub上clone下来的
 记录一下~~~~
+
+------------------------------
+为了练习gitee的同步更新功能 我在更新一次
